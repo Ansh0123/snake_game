@@ -1,2 +1,2 @@
-# snake_game
-Basic snake game
+# snake game
+A basic version of traditional snake game
